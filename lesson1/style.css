@@ -1,0 +1,25 @@
+#box1 {
+background-color: #141f40;
+height: 100px;
+width: 400px;
+}
+#box2 {
+background-color: #80bfa8;
+height: 250px;
+width: 150px;
+float: left;
+}
+#box3 {
+background-color: #8c2727;
+height: 250px;
+width: 250px;
+float: left;
+}
+#box4 {
+background-color: #d98d30;
+height: 100px;
+width: 400px;
+content: '';
+display: block;
+clear: both;
+}
